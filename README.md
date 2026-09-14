@@ -2,9 +2,12 @@
 <html>
 <p>
   
-   <a href="https://florentinecodex.getty.edu/book/11/folio/ir" target="_blank"> Digital Codex (Book 11)</a>
+   <a href="https://florentinecodex.getty.edu/book/11/folio/ir" target="_blank"> Digital codex (Book 11)</a>
   <br>
-  <a href="https://florentinecodex.getty.edu/resources/6b_Garcia_Garagarza_Glossary#t" target="_blank"> Glossary of terms</a>
+  <a href="https://florentinecodex.getty.edu/resources/6b_Garcia_Garagarza_Glossary#t" target="_blank"> Glossary</a>
+  <br>
+  <a href="https://eapolanco.com/tips-on-pronouncing-nahuatl/" target="_blank"> Nahuatl pronunciation quick guide</a>
+
   <br>
   <br>
 <strong>Recommended Readings Sept. 21:</strong>  
